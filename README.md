@@ -10,4 +10,4 @@ Create a Dockerfile
 # Step2
 Build the Dockerfile, and then the Docker image will be created. Using the above command, we can build the image where the '.' represents the Dockerfile in the present directory.
 
-git clone https://github.com/your-username/your-repository.git
+''' docker build -t jenkins . '''
