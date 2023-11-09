@@ -15,4 +15,5 @@ Build the Dockerfile, and then the Docker image will be created. Using the above
 ![Screenshot from 2023-11-09 07-55-05](https://github.com/AKHIL907/Jenkins-container/assets/137915095/a76174b6-530a-4fc6-b80d-51b15a3164ad)
 
 To list the Docker images use above command
+
 ``` docker images ```
