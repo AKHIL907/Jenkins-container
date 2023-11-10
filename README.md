@@ -26,3 +26,7 @@ Run the docker container  with the imagename and tag using the below command exp
 ``` docker run -dp 8080:8080 jenkins:1 ```
 
 ![Screenshot from 2023-11-10 20-14-09](https://github.com/AKHIL907/Jenkins-container/assets/137915095/01acf98d-431b-4ee4-960c-be4d577b837d)
+
+now we can access the application using localhost with port number 'localhost:8080'
+
+![Screenshot from 2023-11-10 20-20-04](https://github.com/AKHIL907/Jenkins-container/assets/137915095/b7e6dfcf-1fe5-4283-9718-f9b6661a4123)
