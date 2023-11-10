@@ -22,6 +22,7 @@ To list the Docker images use above command
 
 # Step3
 Run the docker container  with the imagename and tag using the below command expose on port 8080.
-``` docker run -dp 8080 jenkins:1 ```
+
+``` docker run -dp 8080:8080 jenkins:1 ```
 
 ![Screenshot from 2023-11-10 20-14-09](https://github.com/AKHIL907/Jenkins-container/assets/137915095/01acf98d-431b-4ee4-960c-be4d577b837d)
